@@ -39,8 +39,6 @@ Developed and led an innovative project, JobShieldAI, focused on solving a real-
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sehajkaur24&theme=tokyonight&include_all_commits=true&count_private=false&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sehajkaur24&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
