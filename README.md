@@ -11,7 +11,7 @@ Final year B.Tech Computer Science Engineering student at Amity University Punja
 - 🌱 **Currently learning:** Web Development, AI/ML, Exploring NLP, Computer Vision & Deep Learning  
 - 🌐 Improving Full Stack Development skills with MERN + FastAPI  
 - 📫 **Reach me at:** sehajkaur9155@gmail.com
-- ⚡ Fun fact I'm a beginner in tech, but my creativity has no limits
+
 
 ---
 
