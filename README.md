@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Sehaj Kaur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=3rd+Year+CSE+Student+at+Amity+University+Punjab;AI%2FML+and+Full+Stack+Developer;University+Level+Sports+Achiever;Ideation+Competition+1st+Prize+Winner;Creative+Thinker+%7C+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student+at+Amity+University+Punjab;AI%2FML+and+Full+Stack+Developer;University+Level+Sports+Achiever;Ideation+Competition+1st+Prize+Winner;Creative+Thinker+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
 </div>
 
