@@ -6,7 +6,7 @@
 
 </div>
 
-Third-year B.Tech Computer Science Engineering student at Amity University Punjab with strong foundations in programming, data structures, and core computer science concepts. Experienced in MERN stack development, artificial intelligence, and machine learning, with hands-on expertise in building scalable web applications. University-level sports achiever and ideation competition winner, demonstrating leadership, discipline, and innovation-driven problem solving.
+Final year B.Tech Computer Science Engineering student at Amity University Punjab with strong foundations in programming, data structures, and core computer science concepts. Experienced in MERN stack development, artificial intelligence, and machine learning, with hands-on expertise in building scalable web applications. University-level sports achiever and ideation competition winner, demonstrating leadership, discipline, and innovation-driven problem solving.
 
 - 🌱 **Currently learning:** Web Development, AI/ML, Exploring NLP, Computer Vision & Deep Learning  
 - 🌐 Improving Full Stack Development skills with MERN + FastAPI  
